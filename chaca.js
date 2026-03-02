@@ -127,7 +127,7 @@ const botLogic = {
     "hello": "Hello! Welcome to ZENOX Digital. How can I help you?",
     "service": "We offer Digital Marketing, Google Ads, and PPC.",
     "price": "Our pricing is project-based. Please fill the form in the Bento Grid.",
-    "contact": "You can email us at contact@zenox.digital",
+    "contact": "You can email us at rahulnamdevabc@gmail.com",
     "who": "I am ZENOX Auto-Bot, your digital assistant.",
     "default": "I didn't quite get that. Try asking about 'services', 'price', or 'contact'."
 };
@@ -158,3 +158,4 @@ function sendBotMessage() {
 
     chatBox.scrollTop = chatBox.scrollHeight;
 }
+
